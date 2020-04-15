@@ -1,0 +1,5 @@
+module MessageList
+MessageList 1.0 MessageList.qml
+internal MessageListItem MessageListItem.qml
+internal ProfileImage ProfileImage.qml
+internal JSONListModel JSONListModel.qml

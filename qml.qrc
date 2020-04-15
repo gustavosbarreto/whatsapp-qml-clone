@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>components/Header/Header.qml</file>
+        <file>components/Header/TabBar.qml</file>
+        <file>components/Header/TabButton.qml</file>
+        <file>components/MessageList/qmldir</file>
+        <file>components/MessageList/MessageList.qml</file>
+        <file>MessagesModel.qml</file>
+        <file>components/MessageList/MessageListItem.qml</file>
+        <file>components/MessageList/ProfileImage.qml</file>
+        <file>theme.js</file>
+        <file>components/MessageList/JSONListModel.qml</file>
+    </qresource>
+</RCC>
